@@ -16,11 +16,20 @@ Everytime when you start to work on our project:
 Price Factor influencing property development and purchases (real estate) - melbourne
  
 Questions
-1.Have developments/purchases increased/decreased between 2019 - 2021? 
-2.What has caused the increase or decrease?
-3.What is the relationship between development and purchase?
-4.What is the most popular suburb or type of dwelling?
-5.Purchased or leased highest
+
+1.Have developments purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold)? 
+
+2.What has caused the increase or decrease? (covid, loan interests, schools)
+
+3.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools)
+
+4.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression)
+
+5.What's the sell and list data about each suburb? (bar chart)
+
+6.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private)
+
+7.Purchased or leased highest? (?? chart)
  
 Hypothesis
 
