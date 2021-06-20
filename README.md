@@ -67,4 +67,10 @@ MedianSoldPrice, AuctionNumberAuctioned, AuctionNumberSold, AuctionNumberWithdra
 
 ![Screen Shot 2021-06-20 at 3 37 42 pm](https://user-images.githubusercontent.com/75764401/122663398-838d8680-d1dd-11eb-944a-75ec6944c2be.png)
 
+# Rachel's suggestion: 
+Can consider this API, we can specify the stats based on quarter or year, and specify the region, it still provide majorities of the stats infor that we requires.
+https://developer.domain.com.au/docs/latest/apis/pkg_properties_locations/references/suburbperformancestatistics_get
+
+using python to map geo graph data
+https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
 
