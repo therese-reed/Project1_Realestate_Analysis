@@ -16,11 +16,11 @@ Everytime when you start to work on our project:
 Price Factor influencing property development and purchases (real estate) - melbourne
  
 Questions
-Have developments/purchases increased/decreased between 2019 - 2021? 
-What has caused the increase or decrease?
-What is the relationship between development and purchase?
-What is the most popular suburb or type of dwelling?
-Purchased or leased highest
+1.Have developments/purchases increased/decreased between 2019 - 2021? 
+2.What has caused the increase or decrease?
+3.What is the relationship between development and purchase?
+4.What is the most popular suburb or type of dwelling?
+5.Purchased or leased highest
  
 Hypothesis
 
@@ -40,11 +40,11 @@ https://onproperty.com.au/free-sites-for-property-research/
 Australian census
 Reserve bank - interest rate?
 Location of schools -
- post code map 
+ post code map
  heat map /highest prices -flag top high school/ list school
 Highest lowest areas with schools median house price
 Compare property price with development
-Investigate influence of covid which increased purchase or rental rate.
+Investigate influence of covid which increased purchase or rental rate
 Compare house sale time overtime vs interest rates offered
 Compare house types
 Purchase vs rental
