@@ -40,10 +40,10 @@ https://data.melbourne.vic.gov.au/Property/Development-Activity-Monitor/gh7s-qda
 (Can only get the data of longitude, latitude and address)
 
 https://data.melbourne.vic.gov.au/browse?category=Property&sortBy=most_accessed&src=fpc&tags=property
-https://partner.realestate.com.au/documentation/api/
 https://data.melbourne.vic.gov.au/Property/Properties-leased-by-City-of-Melbourne/3v7r-q3ds
 https://developer.domain.com.au
 https://onproperty.com.au/free-sites-for-property-research/
+https://developers.google.com/chart/interactive/docs/gallery/geochart
 
 
 Australian census
