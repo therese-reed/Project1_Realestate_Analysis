@@ -17,25 +17,30 @@ Price Factor influencing property development and purchases (real estate) - melb
  
 Questions
 
-1.Have purchase and list impact by bank interest rate (maybe base on large area , calculate the averate number, line chart)
+1.Do purchase price and sell number impact by bank interest rate (maybe base on large area , calculate the average number, line chart)
 
-2.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold)? 
+2.In three different years, compare whole number of list and sold (use sum up value, bar chart)
 
-3.What has caused the increase or decrease? (covid, loan interests, schools)
+3.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold)? 
 
-4.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools)
+4.What has caused the increase or decrease? (covid, loan interests, schools)
 
-5.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression)
+5.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools)
 
-6.Does the list of rent has relationships with price of sold?(scatter plot, linear regression)
+6.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression)
 
-7.What's the sell and list data about each suburb? (bar chart)
+7.Does the list of rent has relationships with price of sold?(scatter plot, linear regression)
 
-8.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private)
+8.What's the sell and list data about each suburb? (bar chart)
 
-9.The outliners of 2019-2021 in Highestsellprice (boxplot)
+9.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private)
+
+10.The outliners of 2019-2021 in Highest sell price, median sold price (boxplot, maybe highlight the outliner)
+
  
-Hypothesis
+# Hypothesis
+
+1. 
 
 
 Datasets
