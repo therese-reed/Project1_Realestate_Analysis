@@ -17,19 +17,23 @@ Price Factor influencing property development and purchases (real estate) - melb
  
 Questions
 
-1.Have developments purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold)? 
+1.Have purchase and list impact by bank interest rate (maybe base on large area , calculate the averate number, line chart)
 
-2.What has caused the increase or decrease? (covid, loan interests, schools)
+2.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold)? 
 
-3.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools)
+3.What has caused the increase or decrease? (covid, loan interests, schools)
 
-4.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression)
+4.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools)
 
-5.What's the sell and list data about each suburb? (bar chart)
+5.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression)
 
-6.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private)
+6.Does the list of rent has relationships with price of sold?(scatter plot, linear regression)
 
-7.Purchased or leased highest? (?? chart)
+7.What's the sell and list data about each suburb? (bar chart)
+
+8.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private)
+
+9.The outliners of 2019-2021 in Highestsellprice (boxplot)
  
 Hypothesis
 
